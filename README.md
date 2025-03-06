@@ -12,7 +12,7 @@ This is a URL Shortener web application built using the MERN (MongoDB, Express.j
 
 - Auto-redirect from short URLs to original URLs
 
-- Delete URLs automatically after a set time (optional feature)
+- Delete URLs automatically after a set time 
 
 - User-friendly React-based frontend
 
