@@ -1,0 +1,46 @@
+*{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.container{
+position: relative;
+top: 200px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.heading{
+    color:  rgb(4, 178, 146);
+}
+.form{
+   
+    background-color: black;
+    color: white;
+    border: none;
+    margin: 2px;
+    
+}
+input{
+    outline: none;
+    background-color: rgb(255, 255, 255);
+    margin: 5px;
+    color: black;
+    width: 300px;
+    height: 30px;
+}
+button{
+    
+    margin: 10px;
+    height: 40px;
+    width: 70px;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(255, 251, 246);
+    color: black;
+    padding: 5px;
+}
+a{
+    color: chartreuse;
+}
